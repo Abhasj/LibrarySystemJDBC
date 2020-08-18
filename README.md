@@ -6,6 +6,10 @@ Used Java-Swing for designing the GUI.
 
 Attached Screenshot of few windows for preview.
 
+## Database Schema
+
+
+![DbschemaI](https://user-images.githubusercontent.com/33092543/90505215-dc306500-e16f-11ea-92a1-6896b8709e86.png)
 
 ## Login Form:
 
@@ -42,6 +46,8 @@ Attached Screenshot of few windows for preview.
 ###### Student Menu:
 
 ![Screenshot from 2020-07-31 04-03-18](https://user-images.githubusercontent.com/33092543/88982349-a5d89600-d2e5-11ea-834e-616cb8a8d3d6.png)
+
+
 
 
 
